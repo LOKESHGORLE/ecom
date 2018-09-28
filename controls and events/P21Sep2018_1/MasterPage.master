@@ -1,0 +1,35 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>head</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+        
+         <asp:Button ID="Button1" runat="server" Text="Button" />   
+
+        </asp:PlaceHolder>
+    </asp:ContentPlaceHolder>
+</head>
+<body style="background-color:aquamarine">
+    <form id="form1" runat="server">
+        <div>
+            <ul>
+                <asp:Button ID="Button2" runat="server" BackColor="Aqua" ForeColor="#0066FF" Text="shop" OnClick="Button2_Click" />
+                <li><a href="EventAndControl.aspx" runat="server">home</a></li>
+                 <li><a href="Shop.aspx" runat="server">shop</a></li>
+            </ul>
+        </div>
+        
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+        
+        
+        
+    </form>
+</body>
+</html>

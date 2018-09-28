@@ -1,0 +1,6 @@
+D:\ASP.Net\Assignment\Ecomerce\DAL\bin\Debug\DAL.dll
+D:\ASP.Net\Assignment\Ecomerce\DAL\bin\Debug\DAL.pdb
+D:\ASP.Net\Assignment\Ecomerce\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\ASP.Net\Assignment\Ecomerce\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ASP.Net\Assignment\Ecomerce\DAL\obj\Debug\DAL.dll
+D:\ASP.Net\Assignment\Ecomerce\DAL\obj\Debug\DAL.pdb
